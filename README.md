@@ -1,2 +1,2 @@
 # smartdocs
-Repository to store Projects Documentation and uses for website
+Repository for storing Project(s) Documentation and publishing to organization's static website.
